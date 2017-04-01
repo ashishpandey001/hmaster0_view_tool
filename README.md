@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+Hmaster0ViewTool::Renderer.copyright('Ashish Pandey', 'All rights reserved')
+```
 
 ## Development
 
